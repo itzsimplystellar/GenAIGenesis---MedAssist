@@ -405,6 +405,7 @@ For issues, feature requests, or feedback:
 - Icons from [Lucide](https://lucide.dev/)
 - Full stack skeleton from [v0.app](https://v0.app/)
 - UI layout from [Figma](https://www.figma.com/)
+- Database provided by [Supabase](https://supabase.com)
 
 ---
 
