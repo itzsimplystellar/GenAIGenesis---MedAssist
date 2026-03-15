@@ -277,34 +277,6 @@ MedAssist Final Product/
 5. **Mark affected body areas** on the interactive diagram
 6. **Add notes** about your health and feelings
 7. **Submit** to save your entry
-
-### Generating a Health Report
-
-1. Navigate to the **"AI Assistant"** tab
-2. **Select a date range**:
-   - Last 7 days
-   - Last 30 days
-   - Last 3 months
-   - Last 6 months
-   - Custom range (using all entries)
-3. **Click "Generate Report"** button
-4. AI analyzes your entries and generates a comprehensive report
-5. Review the report including:
-   - Health summary
-   - Symptom patterns
-   - Mood trends
-   - Recommendations
-   - Suggested specialists
-
-### Sharing Your Report
-
-Once you have a generated report:
-
-- **Copy** - Copy report to clipboard
-- **Export** - Download as a `.txt` file
-- **Generate QR Code** - Share via QR code that healthcare providers can scan
-- **Delete** - Remove if no longer needed
-
 ---
 
 ## How It Works
